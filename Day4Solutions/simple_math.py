@@ -1,5 +1,19 @@
 """
-A collection of simple math operations
+Simple_math module - a collection of simple math operations
+
+Functions:
+    simple_add(a,b) - sum of two numbers
+    
+    simple_sub(a,b) - Subtratction of two numbers, b from a
+    
+    simple_mult(a,b) - the multiplication of two numbers
+    
+    simple_div(a,b) - the division of a/b
+    
+    poly_first(x, a0, a1) - first degree polynomial
+    
+    poly_second(x, a0, a1, a2) - second degree polynomial
+
 """
 
 def simple_add(a,b):
